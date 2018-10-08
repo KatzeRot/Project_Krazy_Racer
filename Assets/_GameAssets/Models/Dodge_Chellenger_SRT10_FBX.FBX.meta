@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: c5ba1edc405588c40b21229044fa8be8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: brakes_f_l
+    100004: brakes_f_r
+    100006: brakes_r_l
+    100008: brakes_r_r
+    100010: //RootNode
+    100012: glass
+    100014: headlights
+    100016: interior
+    100018: rearlights
+    100020: wheel_f_l
+    100022: wheel_f_r
+    100024: wheel_r_l
+    100026: wheel_r_r
+    400000: body
+    400002: brakes_f_l
+    400004: brakes_f_r
+    400006: brakes_r_l
+    400008: brakes_r_r
+    400010: //RootNode
+    400012: glass
+    400014: headlights
+    400016: interior
+    400018: rearlights
+    400020: wheel_f_l
+    400022: wheel_f_r
+    400024: wheel_r_l
+    400026: wheel_r_r
+    2100000: interior_dark
+    2100002: interior
+    2100004: screen
+    2100006: device
+    2100008: 'Material #45'
+    2100010: Default Metallic Paint
+    2100012: 'Material #46'
+    2100014: 'Material #47'
+    2100016: black 10
+    2100018: 'Material #235 Slot #7'
+    2100020: 'Material #174'
+    2100022: 'Material #243'
+    2100024: 'Material #50'
+    2100026: 'Material #203'
+    2100028: 'Material #202'
+    2100030: Brembo
+    2100032: 'Material #71'
+    2100034: brake disk dark
+    2100036: 'Material #142'
+    2100038: 'Material #143'
+    2100040: 'Material #144'
+    2100042: 'Material #249'
+    2100044: 'MultiMat_11 Slot #4'
+    2100046: 'Material #157'
+    2300000: body
+    2300002: brakes_f_l
+    2300004: brakes_f_r
+    2300006: brakes_r_l
+    2300008: brakes_r_r
+    2300010: glass
+    2300012: headlights
+    2300014: interior
+    2300016: rearlights
+    2300018: wheel_f_l
+    2300020: wheel_f_r
+    2300022: wheel_r_l
+    2300024: wheel_r_r
+    3300000: body
+    3300002: brakes_f_l
+    3300004: brakes_f_r
+    3300006: brakes_r_l
+    3300008: brakes_r_r
+    3300010: glass
+    3300012: headlights
+    3300014: interior
+    3300016: rearlights
+    3300018: wheel_f_l
+    3300020: wheel_f_r
+    3300022: wheel_r_l
+    3300024: wheel_r_r
+    4300000: interior
+    4300002: body
+    4300004: glass
+    4300006: wheel_f_l
+    4300008: brakes_f_l
+    4300010: brakes_r_l
+    4300012: wheel_r_l
+    4300014: brakes_f_r
+    4300016: wheel_f_r
+    4300018: wheel_r_r
+    4300020: brakes_r_r
+    4300022: headlights
+    4300024: rearlights
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brembo
+    second: {fileID: 2100000, guid: 2310809b15dc7fe49a58595cf7458902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Metallic Paint
+    second: {fileID: 2100000, guid: 1a54d0d3c8d0ed84996fbfa8b657f4a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #142'
+    second: {fileID: 2100000, guid: e8f9041644edf3a44892b595881c1ffc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #143'
+    second: {fileID: 2100000, guid: 4ed6662b308d70647aa84f3506e934c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #144'
+    second: {fileID: 2100000, guid: 5574d93647f5dea4aaf8d7ef17b3b810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #157'
+    second: {fileID: 2100000, guid: 5e93b83e04556ce479b4b068e1b1db74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #174'
+    second: {fileID: 2100000, guid: 17f4eb220179f08418d7798f80b43cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #202'
+    second: {fileID: 2100000, guid: 4354cba065a9c9647928119460064120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #203'
+    second: {fileID: 2100000, guid: 34bb5bf427362e74cace87da42938077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #235 Slot #7'
+    second: {fileID: 2100000, guid: b164bdc212a32b743978442418d7e199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #243'
+    second: {fileID: 2100000, guid: ee553ea530107ad43a365d28966d9413, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #249'
+    second: {fileID: 2100000, guid: 9b2befb6d072ce441badd171d7088409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45'
+    second: {fileID: 2100000, guid: 7ccb2fdc8a6c8844990c5b4d91cff258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #46'
+    second: {fileID: 2100000, guid: 4c73e10d88bf4024cbc85262a8a95f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: d798b8cb28ffdb44fbc055f304e17d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50'
+    second: {fileID: 2100000, guid: 6c418813e8da2914cac7992ec6e7e93d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #71'
+    second: {fileID: 2100000, guid: 41058d5d1f6d78941ac94720ba5d57e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'MultiMat_11 Slot #4'
+    second: {fileID: 2100000, guid: 4846ca00b7dbdae4fbb84b54236025c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black 10
+    second: {fileID: 2100000, guid: c31a711dd91f9934ba372f55f7e6025f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brake disk dark
+    second: {fileID: 2100000, guid: d86a27883a8ba344fb6465fe7ba38cce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: device
+    second: {fileID: 2100000, guid: 1b8597e2a8efd5045ab7dac08b921707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior
+    second: {fileID: 2100000, guid: e07f192823be5834696d3012e04839ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_dark
+    second: {fileID: 2100000, guid: 9d45f7046c882c24f93c1be86be05d79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen
+    second: {fileID: 2100000, guid: 87be71072c1019742906029fd963973a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
